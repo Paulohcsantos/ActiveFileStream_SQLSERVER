@@ -1,0 +1,6 @@
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\bin\Release\configFileTable.exe.config
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\bin\Release\configFileTable.exe
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\bin\Release\configFileTable.pdb
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\obj\Release\configFileTable.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\obj\Release\configFileTable.exe
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\obj\Release\configFileTable.pdb

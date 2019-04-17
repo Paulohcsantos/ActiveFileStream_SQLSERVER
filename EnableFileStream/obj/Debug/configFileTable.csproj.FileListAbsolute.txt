@@ -1,0 +1,7 @@
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\obj\Debug\configFileTable.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\bin\Debug\configFileTable.pdb
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\obj\Debug\configFileTable.pdb
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\bin\Debug\configFileTable.exe.config
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\bin\Debug\configFileTable.exe
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\obj\Debug\configFileTable.exe
+C:\Users\Paulo\source\repos\configFileTable\configFileTable\obj\Debug\configFileTable.csprojResolveAssemblyReference.cache
